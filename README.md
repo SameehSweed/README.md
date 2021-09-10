@@ -38,7 +38,7 @@
 
 ---
 [gmail]: mailto:sweedsameeh99@gmail.com
-[linkedin]: https://www.linkedin.com/in/hanan-shpigler-ab09031ba/
+[linkedin]: https://www.linkedin.com/in/sameeh-sweed-195753220/
 
 [html]: "https://en.wikipedia.org/wiki/HTML"
 [css]: "https://en.wikipedia.org/wiki/CSS"
